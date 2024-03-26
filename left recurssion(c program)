@@ -6,7 +6,7 @@
        char beta,alpha;  
        int num;  
        char production[10][SIZE];  
-       int index=3; /* starting of the string following "->" */  
+       int index=3;
        printf("Enter Number of Production : ");  
        scanf("%d",&num);  
        printf("Enter the grammar as E->E-A :\n");  
